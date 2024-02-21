@@ -1,0 +1,75 @@
+* {
+    
+}
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.5;
+    background:rgb(63, 58, 58);
+}
+header {
+    background-color: #727171;
+    text-align: center;
+    padding: 20px;
+}
+header h1 {
+    font-size: 2.5em;
+    margin-bottom: 10px;
+    color:rgb(21, 30, 37);
+}
+header h2 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+    color: rgb(33, 38, 41);
+}
+.song-info, .band {
+        font-style:italic;
+        margin-bottom: 20px;
+        font-size:14px;
+        color: rgb(230, 232, 236);
+    }
+main {
+    padding:20px;
+    background-image: url("c:/CSS/Assignment1/myimg.jpg");
+    background-position:center;
+    text-align: center;
+    background-size: cover;
+    background-color:#a49a9a;
+}
+section {
+    margin-bottom: 20px;
+}
+section h2 {
+    margin-bottom:10px;
+    font-size: 1.8em;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+    color:rgb(108, 101, 88)
+}
+section p { 
+    margin-bottom: 10px;
+    line-height: 1;
+    color: rgb(228, 219, 219)
+}
+.source {
+    font-style: italic;
+    padding: 10px;
+    font-size: 11px;
+    color: #aa9090
+     
+}
+footer {
+    background-color: #464545;
+    padding: 10px 10px;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width:100%;
+    color: white;
+}
+a {
+    color:blueviolet;
+    text-decoration: none;
+}
+a:hover {
+    color: #8aa85a;
+    text-decoration: underline;
+}
